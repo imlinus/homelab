@@ -1,0 +1,19 @@
+{
+  email mail@imlin.us
+}
+
+play.imlin.us {
+  reverse_proxy localhost:8096
+}
+
+music.imlin.us {
+  reverse_proxy localhost:4533
+}
+
+torrents.imlin.us {
+  reverse_proxy localhost:10302
+}
+
+shows.imlin.us {
+  reverse_proxy localhost:8989
+}
