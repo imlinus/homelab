@@ -1,0 +1,26 @@
+█ █ █▀█ █▀▄▀█ █▀█ █  ▄▀█ █▄▄
+█▀█ █▄█ █ ▀ █ █▄▄ █▄ █▀█ █▄█
+
+Welcome to the repository of my homelab
+
+Here you'll find most of the things I have setup
+
+Homelab
+╔═══════════════╤════════════╗
+║ Type          │ Subdomain  ║
+╟───────────────┼────────────╢
+║ Caddy         │ :80, :443  ║
+╚═══════════════╧════════════╝
+
+Seedbox
+╔═══════════════╤════════════╗
+║ Type          │ Subdomain  ║
+╟───────────────┼────────────╢
+║ Jellyfin      │ play       ║
+║ Navidrome     │ music      ║
+║ QBitTorrent   │ torrents   ║
+║ Sonarr        │ shows      ║
+║ Jackett       │ :9117      ║
+║ ErsatzTV      │ :8409      ║
+║ Unmanic       │ :8888      ║
+╚═══════════════╧════════════╝
